@@ -1,6 +1,6 @@
 import { Component, computed, EventEmitter, Input, input, Output, output } from '@angular/core';
 import { User } from './us.model';
-import { CardComponent } from "../shared/card/card.component";
+// import { CardComponent } from "../shared/card/card.component";
 
 // type User = {
 //   id: string;
